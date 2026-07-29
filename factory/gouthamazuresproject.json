@@ -1,0 +1,15 @@
+{
+	"name": "gouthamazuresproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce992b3d-9290-4e80-b862-df8959b57926",
+		"tenantId": "99683648-4306-436d-ba26-78f9784931e7"
+	}
+}
